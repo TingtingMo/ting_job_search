@@ -1,6 +1,8 @@
 # ting_job_search
 
-**Apply better to fewer jobs.** A small job-search agent that runs in [Claude Code](https://claude.com/claude-code): every morning it finds the jobs that fit you best, writes a tailored CV when you ask, and keeps your applications up to date.
+**Apply better to fewer jobs.** 
+
+This is a small job-search agent that runs in [Claude Code](https://claude.com/claude-code): every morning it finds the jobs that fit you best, writes a tailored CV when you ask, and keeps your applications up to date.
 
 I built it for my own search. Everything personal lives in a few plain text files, so you can make it yours.
 
