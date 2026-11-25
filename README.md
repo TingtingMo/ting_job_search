@@ -2,7 +2,7 @@
 
 **Apply better to fewer jobs.** A small job-search agent that runs in [Claude Code](https://claude.com/claude-code): every morning it finds the jobs that fit you best, writes a tailored CV when you ask, and keeps your applications up to date.
 
-I built it for my own search (data analysis, data operations and marketing/growth analytics in Denmark and Sweden). Everything personal lives in a few plain text files, so you can make it yours.
+I built it for my own search. Everything personal lives in a few plain text files, so you can make it yours.
 
 ## Who is this for?
 
