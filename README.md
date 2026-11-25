@@ -14,6 +14,8 @@ The agent never applies for you. You check every job and press "submit" yourself
 
 ## What you get
 
+*The screenshots use made-up example data: a fictional candidate and fictional companies.*
+
 **A daily shortlist in Excel.** New jobs go to the top, with a 1–5 match score, a one-line reason and a clickable link. You pick *Tailor CV*, *Apply as is* or *Skip* from a dropdown.
 
 ![Shortlist](docs/images/shortlist.png)
@@ -94,6 +96,4 @@ This project stands on [Career-Ops](https://github.com/santifer/career-ops) by [
 
 From Career-Ops I reuse the job scanner (reading Greenhouse, Lever, Ashby, Workday, Platsbanken and other job feeds), its title and location filters, and the idea of scoring each job against your CV. On top of that I built a simpler daily routine for myself: a ranked Excel shortlist, tailored CVs only on request, and a tracker that updates from email.
 
-If you want the full system, use Career-Ops directly. Thank you, Santiago, for sharing it.
-
-Built by Tingting Mo with Claude Code.
+If you want the full system, try Career-Ops directly.
