@@ -1,0 +1,14 @@
+{
+  "name": "ting_job_search",
+  "private": true,
+  "type": "module",
+  "description": "Daily job shortlist and application tracker for Tingting",
+  "scripts": {
+    "scan": "node tools/scan.mjs",
+    "shortlist": "node tools/shortlist.mjs",
+    "test": "node --test tools/ting.test.mjs"
+  },
+  "dependencies": {
+    "exceljs": "4.4.0"
+  }
+}

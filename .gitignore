@@ -1,0 +1,17 @@
+# Installed packages (recreate with npm install)
+node_modules/
+
+# Personal files: CV, cover letter, rules, applications
+profile/master-cv.md
+profile/master-cover-letter.md
+profile/cv-rules.md
+applications.xlsx
+shortlist.xlsx
+cv/
+weekly-reports/
+data/
+_to_delete/
+.DS_Store
+
+# Excel lock files
+~$*
